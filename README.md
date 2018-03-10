@@ -7,4 +7,6 @@ ZCZC W02 demo kelar
 
 ZCZC W03 DEMO DONE
 
+ZCZC W04 Donezo
+
 Saya sudah mencoba demo W00
