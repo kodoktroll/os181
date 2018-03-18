@@ -9,4 +9,6 @@ ZCZC W03 DEMO DONE
 
 ZCZC W04 Donezo
 
+ZCZC W05 KELAR
+
 Saya sudah mencoba demo W00
