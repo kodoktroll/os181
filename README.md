@@ -13,4 +13,6 @@ ZCZC W05 KELAR
 
 ZCZC W06 SUDAH SELESAY
 
+ZCZC W07 KELAR M8
+
 Saya sudah mencoba demo W00
