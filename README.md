@@ -15,4 +15,6 @@ ZCZC W06 SUDAH SELESAY
 
 ZCZC W07 KELAR M8
 
+ZCZC W08 sudah.
+
 Saya sudah mencoba demo W00
