@@ -19,4 +19,6 @@ ZCZC W08 sudah.
 
 ZCZC W09
 
+ZCZC W10
+
 Saya sudah mencoba demo W00
